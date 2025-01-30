@@ -1,7 +1,7 @@
 # Bank Account System with TDD  
 
 
-## 📌 Summary  
+## Summary  
 This project implements a **bank account management system** using the **Mockist Test-Driven Development (TDD) approach**. The goal was to create an **account service** that allows users to:  
 
 ✅ **Deposit money**  
@@ -16,7 +16,7 @@ This solution follows **TDD principles**, ensuring each feature was designed and
 
 ---
 
-## ⚙️ Development Steps  
+## Development Steps  
 
 ### 🟢 `AccountService.java` (Main Business Logic)  
 Manages deposits, withdrawals, and balance updates.  
@@ -73,15 +73,15 @@ By using **TDD**, all tests were written before implementation, ensuring a fully
 
 ---
 
-## 🚀 Additional Features  
+## Additional Features  
 
-### 📌 Filtered Transactions (Deposits Only)  
+### Filtered Transactions (Deposits Only)  
 Implemented a **filtering system** to display **only deposit transactions**.  
 
 ✔ Improves **readability** when reviewing account history.  
 ✔ Allows users to **analyze deposits separately**, aiding financial tracking.  
 
-### 📌 Export Transactions to CSV  
+### Export Transactions to CSV  
 Implemented **CSV exporting** to allow users to **save their transaction history**.  
 
 ✔ Helps in **record-keeping** for financial audits.  
@@ -91,29 +91,19 @@ By computing the **balance dynamically**, we ensure that CSV files are always ac
 
 ---
 
-## 💙 Special Thanks to Skypay  
-I would like to express my **gratitude to Skypay** for giving me the opportunity to develop this solution using **Mockist TDD**. This project has been a great **learning experience**, allowing me to refine my **test-driven development** skills and build a robust, scalable banking system.  
-
-🚀 **This project not only enhances my expertise in Java development but also showcases the power of TDD in creating well-tested and maintainable software solutions.**  
+**This project not only enhances my expertise in Java development but also showcases the power of TDD in creating well-tested and maintainable software solutions.**  
 
 Thank you, **Skypay**, for this amazing experience! 🙌  
 
----
-
-### 🛠 Technologies Used  
-- Java 17  
-- JUnit 5  
-- Mockito  
-- IntelliJ IDEA  
-- Maven  
 
 ---
 
 ### 📬 Contact  
-🔗 **GitHub:** [GitHub Account]([https://github.com/yourusername](https://github.com/YassineOurara))  
-📧 **Email:** yassineourara@gmail.com
+📧 **Email:** yassineourara@gmail.com  
+🔗 **LinkedIn:** [Yassine Ourara](https://www.linkedin.com/in/yassine-ourara)  
+🎨 **Behance:** [Yacine Ourara](https://www.behance.net/yacineourara)  
 
-
-![Capture_d_écran_2025-01-29_175418-removebg-preview](https://github.com/user-attachments/assets/fa22395f-ca02-4da5-bf3a-d0d50a04a44a)
-
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/fa22395f-ca02-4da5-bf3a-d0d50a04a44a" alt="Logo" width="400px">
+</div>
 
