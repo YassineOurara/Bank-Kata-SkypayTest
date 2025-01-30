@@ -12,10 +12,10 @@ public class TransactionExporter {
         try (FileWriter writer = new FileWriter(filename)) {
             writer.append(CSV_HEADER);
 
-            int balance = 0; // Initialize balance
+            int balance = 0;
 
             for (Transaction transaction : transactions) {
-                balance += transaction.getAmount(); // Compute balance
+                balance += transaction.getAmount();
 
                 writer.append(transaction.getDate().toString())
                         .append(",")

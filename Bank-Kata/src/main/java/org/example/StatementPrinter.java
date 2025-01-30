@@ -9,9 +9,8 @@ public class StatementPrinter {
 
         int currentBalance = initialBalance;
 
-        // Loop through transactions in reverse order to print latest first
         for (Transaction transaction : transactions) {
-            currentBalance += transaction.getAmount(); // Update balance for each transaction
+            currentBalance += transaction.getAmount();
             System.out.printf("%s || %d || %d%n", transaction.getDate(), transaction.getAmount(), currentBalance);
         }
     }

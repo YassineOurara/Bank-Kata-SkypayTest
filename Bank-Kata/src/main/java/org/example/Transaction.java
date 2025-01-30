@@ -5,12 +5,12 @@ import java.time.LocalDate;
 public class Transaction {
     private final LocalDate date;
     private final int amount;
-    private final TransactionType type; // Remove balance from constructor
+    private final TransactionType type;
 
-    public Transaction(LocalDate date, int amount, TransactionType type) { // Update constructor
+    public Transaction(LocalDate date, int amount, TransactionType type) {
         this.date = date;
         this.amount = amount;
-        this.type = type; // Assign type
+        this.type = type;
     }
 
     public LocalDate getDate() {
@@ -21,7 +21,7 @@ public class Transaction {
         return amount;
     }
 
-    public TransactionType getType() { // Getter for transaction type
+    public TransactionType getType() {
         return type;
     }
 }

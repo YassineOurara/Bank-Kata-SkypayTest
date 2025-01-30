@@ -11,12 +11,12 @@ public class TransactionRepository {
     }
 
     public List<Transaction> getTransactions() {
-        return new ArrayList<>(transactions); // Return a copy of the transactions
+        return new ArrayList<>(transactions);
     }
 
     public List<Transaction> filterTransactions(FilterCriteria criteria) {
         return transactions.stream()
-                .filter(transaction -> transaction.getType() == criteria.getTransactionType()) // Assuming your FilterCriteria has a method to get the type
+                .filter(transaction -> transaction.getType() == criteria.getTransactionType())
                 .toList();
     }
 

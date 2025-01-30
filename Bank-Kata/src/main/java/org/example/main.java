@@ -8,7 +8,6 @@ public class main {
         StatementPrinter statementPrinter = new StatementPrinter();
         Account account = new Account(transactionRepository, statementPrinter);
 
-        // Sample transactions
 
         account.deposit(1000);
         account.deposit(2000);
@@ -17,7 +16,6 @@ public class main {
         System.out.println("🔹 All Transactions:");
         account.printStatement();
 
-        // Filtering transactions: Get only deposits
         FilterCriteria criteria = new FilterCriteria(
                 LocalDate.of(2024, 1, 1), // Start Date
                 LocalDate.of(2024, 12, 31), // End Date
