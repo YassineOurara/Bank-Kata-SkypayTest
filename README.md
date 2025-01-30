@@ -96,7 +96,7 @@ By computing the **balance dynamically**, we ensure that CSV files are always ac
 
 ---
 
-### 📬 Contact  
+### Contact  
 📧 **Email:** yassineourara@gmail.com  
 🔗 **LinkedIn:** [Yassine Ourara](https://www.linkedin.com/in/yassine-ourara)  
 🎨 **Behance:** [Yassine Ourara](https://www.behance.net/yacineourara)  
