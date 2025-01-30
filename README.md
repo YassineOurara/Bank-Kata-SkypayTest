@@ -93,8 +93,6 @@ By computing the **balance dynamically**, we ensure that CSV files are always ac
 
 **This project not only enhances my expertise in Java development but also showcases the power of TDD in creating well-tested and maintainable software solutions.**  
 
-Thank you, **Skypay**, for this amazing experience! 🙌  
-
 
 ---
 
@@ -104,6 +102,6 @@ Thank you, **Skypay**, for this amazing experience! 🙌
 🎨 **Behance:** [Yacine Ourara](https://www.behance.net/yacineourara)  
 
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/fa22395f-ca02-4da5-bf3a-d0d50a04a44a" alt="Logo" width="400px">
+  <img src="https://github.com/user-attachments/assets/fa22395f-ca02-4da5-bf3a-d0d50a04a44a" alt="Logo" width="300px">
 </div>
 
